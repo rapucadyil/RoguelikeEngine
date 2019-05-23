@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Roguelike-Engine", "Roguelike-Engine.vcxproj", "{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Debug|x64.ActiveCfg = Debug|x64
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Debug|x64.Build.0 = Debug|x64
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Debug|x86.ActiveCfg = Debug|Win32
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Debug|x86.Build.0 = Debug|Win32
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Release|x64.ActiveCfg = Release|x64
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Release|x64.Build.0 = Release|x64
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Release|x86.ActiveCfg = Release|Win32
+		{48F43EF7-4488-4F98-9AB7-B1E44CC41D35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59349D5C-2461-457D-8F51-9B8D09A0B4FE}
+	EndGlobalSection
+EndGlobal
